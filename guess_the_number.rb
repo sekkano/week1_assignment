@@ -1,4 +1,4 @@
-level_selected = 0
+level_selected = 3000
 random_number = 0
 guess_counter = 1
 player_guess = ""
